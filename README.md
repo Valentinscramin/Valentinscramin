@@ -7,9 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/valentinscramin" target="blank"><img src="https://img.shields.io/twitter/follow/valentinscramin?logo=twitter&style=for-the-badge" alt="valentinscramin" /></a> </p>
 
-- 🌱 Estou estudando **laravel e NodeJs**
+- 🌱 Estou estudando **laravel e NodeJs** e divirto-me jogando e editando fotos e videos nas horas vagas.
 
 - 📫 Contate-me através do e-mail **valentinscramin@gmail.com**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/valentinscramin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="valentinscramin" height="30" width="40" /></a>
