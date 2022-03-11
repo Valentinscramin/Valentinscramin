@@ -1,3 +1,15 @@
+<h1 align="center">Olá 👋, Me chamo Valentin Oliveira Scremin</h1>
+<h3 align="center">Sou desenvolvedor Full-Stack</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=valentinscramin&label=Profile%20views&color=0e75b6&style=flat" alt="valentinscramin" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentinscramin" alt="valentinscramin" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/valentinscramin" target="blank"><img src="https://img.shields.io/twitter/follow/valentinscramin?logo=twitter&style=for-the-badge" alt="valentinscramin" /></a> </p>
+
+- 🌱 Estou estudando **laravel e NodeJs**
+
+- 📫 Contate-me através do e-mail **valentinscramin@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/valentinscramin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="valentinscramin" height="30" width="40" /></a>
