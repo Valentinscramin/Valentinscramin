@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/valentinscramin" target="blank"><img src="https://img.shields.io/twitter/follow/valentinscramin?logo=twitter&style=for-the-badge" alt="valentinscramin" /></a> </p>
 
-- 🌱 Estou estudando **Laravel e NodeJs** e divirto-me jogando e editando fotos e videos nas horas vagas.
+- 🌱 Estou estudando **Laravel e NodeJs**, divirto-me jogando e editando fotos e videos nas horas vagas.
 
 - 📫 Contate-me através do e-mail **valentinscramin@gmail.com**
 - 
