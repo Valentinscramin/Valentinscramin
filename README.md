@@ -1,5 +1,13 @@
 <h1 align="center">Olá 👋, Me chamo Valentin Oliveira Scremin</h1>
-<h3 align="center">Sou desenvolvedor Full-Stack</h3>
+<h3 align="center">Hellow Everyone!</h3>
+
+<div>
+  <a href="https://github.com/Valentinscramin">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentinscramin&layout=compact&langs_count=7&theme=react" />
+
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentinscramin&label=Profile%20views&color=0e75b6&style=flat" alt="valentinscramin" /> </p>
 
